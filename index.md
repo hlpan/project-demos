@@ -66,8 +66,10 @@ Rade-GS Possion
 
 ### CUDA网格生成
 
-![CUDA网格生成](water-mark/cuda-surf-recon.png)
+![CUDA mesh recon](water-mark/cuda-surf-recon.png)
 
 ### CUDA网格优化
 
-![CUDA网格优化](water-mark/mesh-opt.png)
+![CUDA mesh optimize](water-mark/mesh-opt.png)
+
+
