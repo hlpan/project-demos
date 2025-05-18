@@ -14,8 +14,9 @@
 - [传统三维重建](#传统三维重建)
   - [纹理映射 view selection](#纹理映射view-slection)
   - [节省像素 atlas package](#节省像素atlas-package)
-  - [CUDA网格生成](#CUDA网格生成)
-  - [CUDA网格优化](#CUDA网格优化)
+  - [CUDA网格生成](#cuda网格生成)
+  - [CUDA网格优化](#cuda网格优化)
+
 ---
 
 ## 高斯
