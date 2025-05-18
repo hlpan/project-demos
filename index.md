@@ -25,7 +25,8 @@
 |改进方案| 原版高斯 |
 |:----:|:----:|
 |<video width="320" controls> <source src="water-mark/room-new.mp4" type="video/mp4"> </video>|<video width="600" controls> <source src="water-mark/room-old.mp4" type="video/mp4"> </video>|
-
+语义分割
+<video width="320" controls> <source src="water-mark/gs-seg.mp4" type="video/mp4"> </video>
 
 ### 室外场景改进
 <video width="600" controls> <source src="water-mark/depth-gs.mp4" type="video/mp4"> </video>
