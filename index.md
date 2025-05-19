@@ -14,9 +14,7 @@
 - [传统三维重建](#传统三维重建)
   - [纹理映射 view selection](#纹理映射view-slection)
   - [节省像素 atlas package](#节省像素atlas-package)
-  - [CUDA网格生成](#cuda网格生成)
-  - [CUDA网格优化](#cuda网格优化)
-
+    
 ---
 
 ## 高斯
@@ -68,12 +66,5 @@ Rade-GS Possion
 
 ![atlas package](water-mark/Tile_0_textured_mesh-texture-1.png)
 
-### CUDA网格生成
-
-![CUDA mesh recon](water-mark/cuda-surf-recon.png)
-
-### CUDA网格优化
-
-![CUDA mesh optimize](water-mark/mesh-opt.png)
 
 
